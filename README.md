@@ -1,4 +1,4 @@
-# 2024_Submit_platomes_Genbank
+# 2024_Submit_plastomes_Genbank
 A step by step guide for submitting weird plastomes to genbank
 
 # Preparing plastid genomes for submission to NCBI GenBank
